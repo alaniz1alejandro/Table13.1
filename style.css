@@ -1,0 +1,45 @@
+body{
+background-color: rgb(103, 150, 28);
+color: rgb(0, 0, 0);
+
+
+}
+#phunTable{
+text-align: center;
+
+}
+nav{
+    height: 6000px;
+width: 200px;
+float: left;
+padding: 5px;
+line-height: 30px;
+}
+
+footer{
+    text-align: center;
+    margin-right: 200px;
+}
+
+#memePic{
+    margin-right: 200px;
+    text-align: center;
+}
+#bodyText{
+
+    margin-right: 200px;
+    text-align: right;
+
+}
+
+header{
+
+    text-align: center;
+}
+.button{
+    width: 100px;
+    height: 30px;
+    background-color: white;
+    border-radius: 10px;
+    border-color: gold;
+}
